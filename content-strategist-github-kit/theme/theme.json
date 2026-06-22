@@ -1,0 +1,34 @@
+{
+  "name": "Impossible To Ignore",
+  "positioning": "Content Strategist and Social Media Consultant",
+  "headline": "Helping brands become impossible to ignore.",
+  "colors": {
+    "ink": "#111111",
+    "paper": "#F8F6F3",
+    "white": "#FFFFFF",
+    "muted": "#5F5F5F",
+    "line": "#D8D2CA",
+    "sage": "#6F7F68",
+    "clay": "#A85F4D",
+    "gold": "#C49A4A"
+  },
+  "typography": {
+    "heading": "Inter or Satoshi, extra bold",
+    "body": "Inter or system-ui"
+  },
+  "sections": [
+    "Hero",
+    "About",
+    "Services",
+    "Experience",
+    "CTA"
+  ],
+  "image_style": [
+    "editorial desk scenes",
+    "content calendars",
+    "analytics dashboards",
+    "brand strategy notes",
+    "warm off-white background",
+    "muted sage, clay, and gold accents"
+  ]
+}

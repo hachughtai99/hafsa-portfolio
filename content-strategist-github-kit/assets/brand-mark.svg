@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Content strategy brand mark</title>
+  <desc id="desc">Abstract editorial mark with a dot, line, and page shapes.</desc>
+  <rect width="256" height="256" rx="44" fill="#111111"/>
+  <rect x="56" y="58" width="144" height="34" rx="17" fill="#F8F6F3"/>
+  <rect x="56" y="112" width="96" height="18" rx="9" fill="#6F7F68"/>
+  <rect x="56" y="148" width="126" height="18" rx="9" fill="#A85F4D"/>
+  <circle cx="178" cy="174" r="24" fill="#C49A4A"/>
+</svg>
